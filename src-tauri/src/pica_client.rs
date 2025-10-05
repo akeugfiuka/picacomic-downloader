@@ -22,7 +22,7 @@ use crate::responses::{
 };
 use crate::types::{GetFavoriteSort, SearchSort};
 
-const HOST_URL: &str = "https://picaapi.picacomic.com/";
+const HOST_URL: &str = "https://pica.pipigou519.top/";
 const API_KEY: &str = "C69BAF41DA5ABD1FFEDC6D2FEA56B";
 const NONCE: &str = "ptxdhmjzqtnrtwndhbxcpkjamb33w837";
 const DIGEST_KEY: &str = r"~d}$Q7$eIni=V)9\RK/P.RM4;9[7|@/CA}b~OW!3?EV`:<>M7pddUBL5n|0/*Cn";
